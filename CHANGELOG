@@ -1,0 +1,5 @@
+ChangeLog (bonnie -- 2004.09.01 by Phost Feng, phostfeng@yahoo.com.cn)
+=====================================================================
+ - Enable the support for Large Files in Makefile.
+ - Well-formed the output messages in HTML format.
+ - Change the way to parse parameters.
